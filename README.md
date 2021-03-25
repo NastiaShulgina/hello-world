@@ -1,2 +1,3 @@
 # hello-world
-it's my repo for practice
+
+I just wanna become a programmer
